@@ -1,0 +1,2 @@
+This is an example paragraph.
+It contains multiple lines of text and demonstrates how to handle plain text data.

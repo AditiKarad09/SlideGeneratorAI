@@ -1,0 +1,5 @@
+[
+    {"Category": "Electronics", "Sales": 10000, "Profit": 2000},
+    {"Category": "Furniture", "Sales": 15000, "Profit": 3000},
+    {"Category": "Stationery", "Sales": 5000, "Profit": 1000}
+]
